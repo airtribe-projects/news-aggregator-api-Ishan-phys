@@ -2,7 +2,7 @@
 
 NewsHub is a secure, efficient, and user-friendly news aggregation app that delivers personalized news to users based on their preferences. It features a full authentication system, preference management, external API integration, and performance optimization using caching.
 
-Caching has been smartly used to speed up the application by storing previously fetched news articles. Instead of calling the external News API repeatedly, cached results are served for repeated requests—significantly reducing latency and API costs.
+Caching has been used to speed up the application by storing previously fetched news articles. Instead of calling the external News API repeatedly, cached results are served for repeated requests—significantly reducing latency and API costs.
 
 ---
 
